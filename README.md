@@ -16,12 +16,13 @@ https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-1154
 　　
 ## 使用効果音：  
 「効果音ラボ」  
-https://soundeffect-lab.info/
+https://soundeffect-lab.info/  
 「無料効果音で遊ぼう!」  
 https://taira-komori.jpn.org/index.html
 　　
 　　
 ## グラフィック：  
+
 自作
 　　
 -----------------------------------

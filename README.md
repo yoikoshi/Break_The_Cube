@@ -19,10 +19,9 @@ https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-1154
 https://soundeffect-lab.info/  
 「無料効果音で遊ぼう!」  
 https://taira-komori.jpn.org/index.html
-　　
-　　
-## グラフィック：  
 
+
+## グラフィック：  
 自作
 　　
 -----------------------------------

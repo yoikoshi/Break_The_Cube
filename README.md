@@ -1,20 +1,25 @@
-#　「Break The Cube」
+# 「Break The Cube」
+
 
 ## 制作時間：  
 ２週間. 
 
+
 ## 制作ツール：  
 Unity. 
 
+
 ## 使用アセット：  
 「Quick Outline」.  
-https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488
+https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488. 
+
 
 ## 使用効果音：  
 「効果音ラボ」. 
-https://soundeffect-lab.info/
+https://soundeffect-lab.info/. 
 「無料効果音で遊ぼう!」. 
-https://taira-komori.jpn.org/index.html
+https://taira-komori.jpn.org/index.html. 
+
 
 ## グラフィック：
 自作. 

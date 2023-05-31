@@ -10,7 +10,7 @@ Unity　　
 
 
 ## 使用アセット：  
-「Quick Outline」　　 
+「Quick Outline」  
 https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488　　
 　　
 　　
